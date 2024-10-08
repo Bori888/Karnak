@@ -1,0 +1,56 @@
+body{
+    background-image:url(kepek/egyiptomihatter.jpg) ;
+    
+}
+*{
+    color: #721010;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+img{
+    padding:3px;
+    border: 2px dashed #721010;
+}
+main{
+
+    width: 70%;
+    margin: auto;
+}
+.szegely{
+    
+    padding: 10px;
+
+}
+h2{
+    border-bottom:1px solid #721010 ;
+    border-top:1px solid #721010 ;
+    text-align: center;
+    padding: 10px;
+}
+h1{
+    text-align: center;
+    padding-top:10px ;
+    text-transform: uppercase;
+}
+
+img{
+    float: right;
+}
+
+.kep{
+    float: left;
+}
+
+.jobb{
+    clear: both;
+    display: table;
+}
+
+.bal{
+    clear: both;
+    display: table;
+}
+
+p,h2 {
+    padding: 10px;
+}
